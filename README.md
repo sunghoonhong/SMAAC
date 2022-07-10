@@ -25,7 +25,7 @@ pip install -U .
 ```
 
 ## Data download
-Since chronic data is required to train or evaluate, please [Download](https://drive.google.com/file/d/15oW1Wq7d6cu6EFS2P7A0cRhyv8u_UqWA/view?usp=sharing).  
+Since chronic data is required to train or evaluate, please [Download](https://drive.google.com/file/d/1K6HnOKI4kZZ2fbtyRf3KuXx9vmM6TfD4/view?usp=sharing).  
 Then, replace `data/` with it.
 ```sh
 cd SMAAC
